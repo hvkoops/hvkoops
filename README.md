@@ -1,4 +1,12 @@
-### Hi there 👋
+I am a composer/computer scientist with a background in sound design, music composision and artificial intelligence. I defended my Ph.D. dissertation in Music Information Retrieval titled [Computational Modelling of Variance in Musical Harmony](https://dspace.library.uu.nl/handle/1874/380443) at the Department of Information and Computing Sciences at Utrecht University) in 2019. My PhD was supervised by [dr. Anja Volk](https://www.staff.science.uu.nl/~fleis102/) and [prof. dr. Remco C. Veltkamp](https://www.staff.science.uu.nl/~veltk101/).
+
+I am currently a Senior Data Scientist at [RTL Netherlands](https://github.com/rtlnl), working on AI audiovisual projects for television and video on demand, such as automatic trailer generation, thumbnail picking, and music detection.
+
+## Links
+
+*   My [LinkedIn](https://www.linkedin.com/in/hendrik-vincent-koops-30927a93/) profile
+*   I am leading the [AI panel](https://www.vprobroadcast.com/titles/ai-songcontest/ai-panel.html) for the 2020 VPRO AI Song Contest, which also includes [Ed Newton-Rex](https://ed.newtonrex.com/) from ByteDance and [Anna Huang](https://research.google/people/105787/) from Google Magenta
+
 
 <!--
 **hvkoops/hvkoops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
