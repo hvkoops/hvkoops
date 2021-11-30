@@ -5,8 +5,7 @@ I am currently a Senior Data Scientist at [RTL Netherlands](https://github.com/r
 ## Links
 
 *   My [LinkedIn](https://www.linkedin.com/in/hendrik-vincent-koops-30927a93/) profile
-*   I am organizing the [2021 AI Song Contest](https://www.aisongcontest.com/)
-*   I was leading the [AI panel](https://www.vprobroadcast.com/titles/ai-songcontest/ai-panel.html) for the 2020 VPRO AI Song Contest, which also includes [Ed Newton-Rex](https://ed.newtonrex.com/) from ByteDance and [Anna Huang](https://research.google/people/105787/) from Google Magenta
+*   I am organizing the [AI Song Contest](https://www.aisongcontest.com/)
 *   My scientific publications can be found at [Google Scholar](https://scholar.google.nl/citations?hl=en&user=rzqMKygAAAAJ&view_op=list_works&sortby=pubdate)
 
 <!--
