@@ -7,7 +7,7 @@ Previously I was a Senior Data Scientist at [RTL Netherlands](https://github.com
 ## Links
 
 *   My [LinkedIn](https://www.linkedin.com/in/hendrik-vincent-koops-30927a93/) profile
-*   I have organized the [AI Song Contest](https://www.aisongcontest.com/)
+*   I have organized multiple editions of the [AI Song Contest](https://www.aisongcontest.com/)
 *   My scientific publications can be found at [Google Scholar](https://scholar.google.nl/citations?hl=en&user=rzqMKygAAAAJ&view_op=list_works&sortby=pubdate)
 
 <!--
